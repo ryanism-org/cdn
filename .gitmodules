@@ -1,0 +1,3 @@
+[submodule "staticAPI"]
+	path = staticAPI
+	url = https://github.com/ryanism-org/staticAPI
